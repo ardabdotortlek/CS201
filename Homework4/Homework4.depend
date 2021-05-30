@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1620782547 source:c:\users\arda_\homework4\stack.cpp
+	<iostream>
+	"Stack.h"
+
+1620782547 c:\users\arda_\homework4\stack.h
+	<iostream>
+	"List.h"
+
+1620775402 c:\users\arda_\homework4\list.h
+	<iostream>
+
+1620782547 source:c:\users\arda_\homework4\list.cpp
+	<iostream>
+	"List.h"
+
+1620782547 source:c:\users\arda_\homework4\strangecalculator.cpp
+	<iostream>
+	"StrangeCalculator.h"
+
+1620782547 c:\users\arda_\homework4\strangecalculator.h
+	<iostream>
+	"Stack.h"
+
+1620777269 source:c:\users\arda_\homework4\main.cpp
+	<iostream>
+	"StrangeCalculator.h"
+

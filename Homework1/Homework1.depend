@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1616593698 source:c:\users\arda_\homework1\movie.cpp
+	<iostream>
+	<cmath>
+	<sstream>
+	<ctime>
+	"MovieBookingSystem.h"
+	"Movie.h"
+
+1616361917 c:\users\arda_\homework1\moviebookingsystem.h
+	<iostream>
+	<sstream>
+	<cmath>
+	"Movie.h"
+	"Reservation.h"
+
+1616593698 c:\users\arda_\homework1\movie.h
+	<iostream>
+
+1616593268 source:c:\users\arda_\homework1\moviebookingsystem.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	"MovieBookingSystem.h"
+	"Movie.h"
+	"Reservation.h"
+
+1616250932 source:c:\users\arda_\homework1\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	"Movie.h"
+	"MovieBookingSystem.h"
+
+1616361917 c:\users\arda_\homework1\reservation.h
+	<iostream>
+
+1616361917 source:c:\users\arda_\homework1\reservation.cpp
+	<iostream>
+	<ctime>
+	"Reservation.h"
+
